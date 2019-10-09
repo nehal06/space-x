@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAEQ,IAFJ,CACA,EAAE,CACE,EAAE,CAAC;EACC,OAAO,EAAE,YAAY;CAExB",
+    "sources": [
+        "Index.scss",
+        "components/_nav.scss"
+    ],
+    "names": [],
+    "file": "Index.css"
+}
