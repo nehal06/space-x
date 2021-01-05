@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://nehal06.github.io/space-x/",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-read-more-less": "^0.1.6",
